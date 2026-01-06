@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloudio</title>
+    <link rel="icon" href="images/logo.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <header class="header">
+        <h1>Cloudio Weather App</h1>
+    </header>
+
+    <div class="search-container">
+        <form id="search-form">
+            <div class="input-group autocomplete">
+                <label for="city">City</label>
+                <input type="text" id="city-input" name="city" placeholder="Enter city" autocomplete="off">
+                <ul id="suggestions" class="suggestion-list"></ul>
+            </div>
+            <div class="input-group">
+                <label for="country">Country</label>
+                <input type="text" id="country-input" name="country" placeholder="Enter country">
+            </div>
+            <button type="submit" class="search-btn">
+                <img src="images/search-icon.png" width="40" height="40" alt="Search">
+            </button>
+        </form>
+    </div>
+
+    <div id="current-weather" class="weather-music">
+        <div class="current-weather-card">
+            <h2 class="location-time">
+                <span class="city-country">
+                    <span id="city-name"></span>, <span id="country-name"></span>
+                </span>
+                <span class="time-date">
+                    <span id="time"></span> <span id="date"></span>
+                </span>
+            </h2>
+            <img id="weather-img"/>
+            <p id="temp"></p>
+            <p id="wind"></p>
+            <p id="humid"></p>
+            <p id="rain"></p>
+        </div>
+        <div id="music-recommendation" class="music-card">
+        </div>
+    </div>
+
+    <section id="weekly-forecast" class="forecast-card">
+        <!-- Weekly forecast populated by JS -->
+    </section>
+
+    <script src="./script.js"></script>
+</body>
+</html>
