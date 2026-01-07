@@ -33,7 +33,7 @@ Cloudio is a full-stack web application that lets users check real-time weather 
 
 ### `Environment variables`
 
-This project requires the following API key:
+This project requires the following API key, **OneCall 2.5 API**
 
 `API_KEY`: Key for [OpenWeatherMap API](https://openweathermap.org/api)
 
