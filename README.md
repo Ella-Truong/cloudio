@@ -31,14 +31,15 @@ Cloudio is a full-stack web application that lets users check real-time weather 
 - *Install dependencies:* `npm install`
 - *Start app:* `npm start` 
 
+### `Environment variables`
 
+This project requires the following API key:
 
+`API_KEY`: Key for [OpenWeatherMap API](https://openweathermap.org/api)
 
-
-
-
-
-
+To run this project: 
+- Copy `.env.example` -> `.env`
+- Fill in your own API_KEY
 
     
 ## 🎬 Demo
