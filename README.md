@@ -45,14 +45,14 @@ Cloudio is a full-stack web application that lets users check real-time weather 
 
 Check out Cloudio live **👇**
 
-[https://cloudio-production.up.railway.app/](https://cloudio-production.up.railway.app/)
+     [https://cloudio-production.up.railway.app/](https://cloudio-production.up.railway.app/)
 
 
 
 ## 📦 How to use 
 1. Open the application in your browser 👇
 
-[Cloudio Live Demo](https://cloudio-production.up.railway.app/)
+      [Cloudio Live Demo](https://cloudio-production.up.railway.app/)
 
 2. Enter the anme of a city in the search box 🏙️
 
