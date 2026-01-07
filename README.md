@@ -1,5 +1,4 @@
 
-## Badges
 ![status](https://img.shields.io/badge/build-passing-brightgreen) ![npm version](https://img.shields.io/badge/npm-v1.0.0-blue) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
