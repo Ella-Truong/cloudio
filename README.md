@@ -50,9 +50,9 @@ Check out Cloudio live **👇**
 
 
 ## 📦 How to use 
-1. Open the application in your browser 👇
+1. Open the application in your browser 
 
-      [Cloudio Live Demo](https://cloudio-production.up.railway.app/)
+      [Cloudio Live Demo](https://cloudio-production.up.railway.app/)  👈
 
 2. Enter the anme of a city in the search box 🏙️
 
