@@ -57,12 +57,12 @@ Check out Cloudio live **👇**
 2. Enter the anme of a city in the search box 🏙️
 
 3. View the current weather for the city 🌤️
-  - 🕒 Local time and date of the city  
-  - 🌡️ Temperature  
-  - 💨 Wind speed  
-  - 💧 Humidity  
-  - 🌧️ Rain  
-  - 📅 5-day forecasts
+     - 🕒 Local time and date of the city  
+     - 🌡️ Temperature  
+     - 💨 Wind speed  
+     - 💧 Humidity  
+     - 🌧️ Rain  
+     - 📅 5-day forecasts
 
 
 4. Enjoy the **music recommendation** based on the current weather  🎧
