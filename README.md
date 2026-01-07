@@ -10,7 +10,7 @@ Cloudio is a full-stack web application that lets users check real-time weather 
 
 
 
-## 🛠 Tech Stack
+## 🛠 Technologies
 
 **Client:**  
 - 🌐 HTML  
